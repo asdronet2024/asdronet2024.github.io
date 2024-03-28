@@ -66,8 +66,8 @@ Topics of interest include, but are not limited to:
 
 ## Important dates
 - **Abstract Submission**: June 2, 2024
-- **Paper Submission**: July 21, 2024
-- **Acceptance Notification**: July 25, 2024
+- **Paper Submission**: July 15, 2024
+- **Acceptance Notification**: July 13, 2024
 - **Camera Ready**: TBD
 - **Early Registration**: TBD
 
@@ -115,3 +115,5 @@ Paper registration and submission will be through EDAS.
 
 ### Web Chair
 - **Lorenzo Palazzetti** ([lorenzo.palazzetti@unifi.it](mailto:lorenzo.palazzetti@unifi.it)), PhD Student, University of Florence, Italy
+
+
