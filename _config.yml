@@ -1,5 +1,5 @@
 remote_theme: minima
-layout: home
+layout: base
 title: ASDRoNet 2024
 description: Algorithmic Solutions for Drone- and Robot-based Networks
 
