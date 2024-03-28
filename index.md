@@ -92,7 +92,7 @@ Paper registration and submission will be through EDAS.
 
 ## Committees
 
-### Workshop Chairs
+### Special Track Chairs
 - **Francesco Betti Sorbelli** ([francesco.bettisorbelli@unipg.it](mailto:francesco.bettisorbelli@unipg.it)), Assistant Professor, University of Perugia, Italy
 - **Federico Corò** ([federico.coro@unipd.it](mailto:federico.coro@unipd.it)), Assistant Professor, University of Padua, Italy
 - **Cristina M. Pinotti** ([cristina.pinotti@unipg.it](mailto:cristina.pinotti@unipg.it)), Professor, University of Perugia, Italy
@@ -100,20 +100,20 @@ Paper registration and submission will be through EDAS.
 
   
 ### Program Committee
-- **Lorenzo Palazzetti** ([lorenzo.palazzetti@unifi.it](mailto:lorenzo.palazzetti@unifi.it)), PhD Student, University of Florence, Italy
-- **Sajjad Ghobadi** ([sajjad.ghobadibabi@unipg.it](mailto:sajjad.ghobadibabi@unipg.it)), Postdoctoral Researcher, University of Perugia, Italy
-- **Punyasha Chatterjee** ([punyasha.chatterjee@jadavpuruniversity.in](mailto:punyasha.chatterjee@jadavpuruniversity.in)), Associate Professor, Jadavpur University, India
-- **Alfredo Navarra** ([alfredo.navarra@unipg.it](mailto:alfredo.navarra@unipg.it)), Professor, University of Perugia, Italy
-- **Leonardo Mostarda** ([leonardo.mostarda@unipg.it](mailto:leonardo.mostarda@unipg.it)), Associate Professor, University of Perugia, Italy
-- **Giuseppe Prencipe** ([giuseppe.prencipe@unipi.it](mailto:giuseppe.prencipe@unipi.it)), Associate Professor, University of Pisa, Italy
-- **Runqi Chai** ([r.chai@bit.edu.cn](mailto:r.chai@bit.edu.cn)), Professor, Cranfield University, UK
-- **Arpita Sinha** ([arpita.sinha@iitb.ac.in](mailto:arpita.sinha@iitb.ac.in)), Professor, Indian Institute of Technology, Bombay, India
-- **Ella Atkins** ([ematkins@umich.edu](mailto:ematkins@umich.edu)), Professor, University of Michigan, US
+- **Lorenzo Palazzetti**, PhD Student, University of Florence, Italy
+- **Sajjad Ghobadi**, Postdoctoral Researcher, University of Perugia, Italy
+- **Punyasha Chatterjee**, Associate Professor, Jadavpur University, India
+- **Alfredo Navarra**, Professor, University of Perugia, Italy
+- **Leonardo Mostarda**, Associate Professor, University of Perugia, Italy
+- **Giuseppe Prencipe**, Associate Professor, University of Pisa, Italy
+- **Runqi Chai**, Professor, Cranfield University, UK
+- **Arpita Sinha**, Professor, Indian Institute of Technology, Bombay, India
+- **Ella Atkins**, Professor, University of Michigan, US
 
 ### Publicity Chair
-- **Lorenzo Palazzetti** ([lorenzo.palazzetti@unifi.it](mailto:lorenzo.palazzetti@unifi.it)), PhD Student, University of Florence, Italy
+- **Lorenzo Palazzetti**, PhD Student, University of Florence, Italy
 
 ### Web Chair
-- **Lorenzo Palazzetti** ([lorenzo.palazzetti@unifi.it](mailto:lorenzo.palazzetti@unifi.it)), PhD Student, University of Florence, Italy
+- **Lorenzo Palazzetti**, PhD Student, University of Florence, Italy
 
 
