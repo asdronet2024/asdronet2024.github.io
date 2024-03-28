@@ -1,7 +1,8 @@
 remote_theme: jekyll/minima
 title: ASDRoNet 2024
 description: Algorithmic Solutions for Drone- and Robot-based Networks
-
+header_pages:
+  - #Scope
 author:
   name: ASDRoNet © 2024
 
