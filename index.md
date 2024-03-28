@@ -1,7 +1,7 @@
 ![image](/logo.png)
 {: style="text-align: center"}
 
-_1st International Workshop on_
+_1st IEEE LCN Special Track on_
 {: style="text-align: center"}
 
 _Algorithmic Solutions for Drone- and Robot-based Networks (ASDRoNet) 2024_
