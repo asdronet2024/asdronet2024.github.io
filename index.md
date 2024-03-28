@@ -8,7 +8,6 @@ _Algorithmic Solutions for Drone- and Robot-based Networks (ASDRoNet) 2024_
 {: style="text-align: center"}
 
 Caen, Normandy, France
-co-located with IEEE LCN 2024
 {: style="text-align: center"}
 
 **October 8-10, 2024**
