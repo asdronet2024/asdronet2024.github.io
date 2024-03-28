@@ -105,10 +105,12 @@ Paper registration and submission will be through EDAS.
 - **Punyasha Chatterjee**, Associate Professor, Jadavpur University, India
 - **Alfredo Navarra**, Professor, University of Perugia, Italy
 - **Leonardo Mostarda**, Associate Professor, University of Perugia, Italy
-#- **Giuseppe Prencipe**, Associate Professor, University of Pisa, Italy
-#- **Runqi Chai**, Professor, Cranfield University, UK
-#- **Arpita Sinha**, Professor, Indian Institute of Technology, Bombay, India
-#- **Ella Atkins**, Professor, University of Michigan, US
+ <!---
+- **Giuseppe Prencipe**, Associate Professor, University of Pisa, Italy
+- **Runqi Chai**, Professor, Cranfield University, UK
+- **Arpita Sinha**, Professor, Indian Institute of Technology, Bombay, India
+- **Ella Atkins**, Professor, University of Michigan, US
+-->
 
 ### Publicity Chair
 - **Lorenzo Palazzetti**, PhD Student, University of Florence, Italy
