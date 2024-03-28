@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
 logo: logo.png
 title: ASDRoNet 2024
 description: Algorithmic Solutions for Drone- and Robot-based Networks
