@@ -3,6 +3,6 @@ logo: assets/logo.png
 title: ASDRoNet 2024
 description: Algorithmic Solutions for Drone- and Robot-based Networks
 minima:
-  skin: solarized
+  skin: classic
 author: ASDRoNet © 2024
 
