@@ -1,3 +1,6 @@
+---
+layout: home
+---
 ![image](/logo.png)
 {: style="text-align: center"}
 
