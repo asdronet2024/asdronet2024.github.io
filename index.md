@@ -102,7 +102,7 @@ Paper registration and submission will be through EDAS.
 ### Program Committee
 - **Lorenzo Palazzetti** ([lorenzo.palazzetti@unifi.it](mailto:lorenzo.palazzetti@unifi.it)), PhD Student, University of Florence, Italy
 - **Sajjad Ghobadi** ([sajjad.ghobadibabi@unipg.it](mailto:sajjad.ghobadibabi@unipg.it)), Postdoctoral Researcher, University of Perugia, Italy
-- Punyasha Chatterjee ([punyasha.chatterjee@jadavpuruniversity.in](mailto:punyasha.chatterjee@jadavpuruniversity.in)), Associate Professor, Jadavpur University, India
+- **Punyasha Chatterjee** ([punyasha.chatterjee@jadavpuruniversity.in](mailto:punyasha.chatterjee@jadavpuruniversity.in)), Associate Professor, Jadavpur University, India
 - **Alfredo Navarra** ([alfredo.navarra@unipg.it](mailto:alfredo.navarra@unipg.it)), Professor, University of Perugia, Italy
 - **Leonardo Mostarda** ([leonardo.mostarda@unipg.it](mailto:leonardo.mostarda@unipg.it)), Associate Professor, University of Perugia, Italy
 - **Giuseppe Prencipe** ([giuseppe.prencipe@unipi.it](mailto:giuseppe.prencipe@unipi.it)), Associate Professor, University of Pisa, Italy
