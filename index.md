@@ -16,7 +16,7 @@ Caen, Normandy, France
 **co-located with [IEEE LCN 2024](https://www.ieeelcn.org/)**
 {: style="text-align: center"}
 
-**Submission link: [click here](https://www.ieee.org/conferences/publishing/templates.html)**
+**Submission link: [click here](https://edas.info/index.php?c=32354)**
 {: style="text-align: center"}
 
 ## Scope
