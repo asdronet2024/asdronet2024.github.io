@@ -66,7 +66,7 @@ Topics of interest include, but are not limited to:
 
 ## Important dates
 - **Abstract Submission**: June 2, 2024
-- **Paper Submission**: July 15, 2024
+- **Paper Submission**: June 15, 2024
 - **Acceptance Notification**: July 13, 2024
 - **Camera Ready**: TBD
 - **Early Registration**: TBD
