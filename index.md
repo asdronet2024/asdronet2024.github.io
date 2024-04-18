@@ -89,7 +89,7 @@ Paper registration and submission will be through EDAS.
 {: style="text-align: justify"}
 
 ## Special Issue
-Selected papers will be invited to the special issue _Applications-Driven UAV Routing and Scheduling Algorithms for Autonomous Transportation Systems_ of ACM Journal on Autonomous Transportation Systems.
+Selected papers will be invited to the special issue _Applications-Driven UAV Routing and Scheduling Algorithms for Autonomous Transportation Systems_ of **ACM Journal on Autonomous Transportation Systems**.
 
 * * *
 
