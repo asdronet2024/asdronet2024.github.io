@@ -66,7 +66,7 @@ Topics of interest include, but are not limited to:
 
 ## Important dates
 - ~~**Abstract Submission**:May 25, 2024~~ ~~June 1, 2024~~
-- **Paper Submission**: ~~June 1, 2024~~ June 15, 2024 (**FIRM**)
+- **Paper Submission**: ~~June 1, 2024~~ 𝙹̶𝚞̶𝚗̶𝚎̶ ̶𝟷̶𝟻̶ ̶𝟸̶𝟶̶𝟸̶𝟺̶ (**FIRM**)
 - **Acceptance Notification**: July 13, 2024
 - **Camera Ready**: TBD
 - **Early Registration**: TBD
@@ -108,6 +108,10 @@ Selected papers will be invited to the special issue _Applications-Driven UAV Ro
 - **Punyasha Chatterjee**, Associate Professor, Jadavpur University, India
 - **Alfredo Navarra**, Professor, University of Perugia, Italy
 - **Leonardo Mostarda**, Associate Professor, University of Perugia, Italy
+- **Ella Atkins**, Professor, University of Michigan, USA
+- **Runqi Chai**, Professor, Cranfield University, UK
+
+
 
 ### Publicity Chair
 - **Lorenzo Palazzetti**, PhD Student, University of Florence, Italy
