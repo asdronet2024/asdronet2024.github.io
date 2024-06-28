@@ -19,6 +19,10 @@ Caen, Normandy, France
 **Submission link: [click here](https://edas.info/index.php?c=32354)**
 {: style="text-align: center"}
 
+
+### The LCN 2024 registration link is: [click here](https://cvent.me/x1LXlg)
+{: style="text-align: center"}
+
 ## Scope
 Drones have transformed into versatile tools with applications across agriculture, environmental monitoring, delivery, and surveillance, revolutionizing operations through real-time data collection and efficient task execution in diverse industries. 
 As technology continues to evolve, the integration of robots alongside drones further enhances their capabilities. 
