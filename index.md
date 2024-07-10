@@ -70,9 +70,9 @@ Topics of interest include, but are not limited to:
 
 ## Important dates
 - ~~**Abstract Submission**:May 25, 2024~~ ~~June 1, 2024~~
-- **Paper Submission**: ~~June 1, 2024~~ 𝙹̶𝚞̶𝚗̶𝚎̶ ̶𝟷̶𝟻̶ ̶𝟸̶𝟶̶𝟸̶𝟺̶ (**FIRM**)
+- **Paper Submission**: ~~June 1, 2024~~ ~~June 15 2024~~ ~~(**FIRM**)~~
 - **Acceptance Notification**: July 13, 2024
-- **Camera Ready**: TBD
+- **Camera Ready**: Jult 25, 2024
 - **Early Registration**: TBD
 
 ## Author Information
