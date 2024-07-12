@@ -103,7 +103,6 @@ Selected papers will be invited to the special issue _Applications-Driven UAV Ro
 - **Francesco Betti Sorbelli** ([francesco.bettisorbelli@unipg.it](mailto:francesco.bettisorbelli@unipg.it)), Assistant Professor, University of Perugia, Italy
 - **Federico Corò** ([federico.coro@unipd.it](mailto:federico.coro@unipd.it)), Assistant Professor, University of Padua, Italy
 - **Cristina M. Pinotti** ([cristina.pinotti@unipg.it](mailto:cristina.pinotti@unipg.it)), Professor, University of Perugia, Italy
-- **Antonios Tsourdos** ([a.tsourdos@cranfield.ac.uk](mailto:a.tsourdos@cranfield.ac.uk)), Professor, Cranfield University, UK
 
   
 ### Program Committee
@@ -111,9 +110,6 @@ Selected papers will be invited to the special issue _Applications-Driven UAV Ro
 - **Sajjad Ghobadi**, Postdoctoral Researcher, University of Perugia, Italy
 - **Punyasha Chatterjee**, Associate Professor, Jadavpur University, India
 - **Alfredo Navarra**, Professor, University of Perugia, Italy
-- **Leonardo Mostarda**, Associate Professor, University of Perugia, Italy
-- **Ella Atkins**, Professor, University of Michigan, USA
-- **Runqi Chai**, Professor, Cranfield University, UK
 
 
 
