@@ -72,7 +72,7 @@ Topics of interest include, but are not limited to:
 - ~~**Abstract Submission**:May 25, 2024~~ ~~June 1, 2024~~
 - **Paper Submission**: ~~June 1, 2024~~ ~~June 15 2024~~ ~~(**FIRM**)~~
 - **Acceptance Notification**: July 13, 2024
-- **Camera Ready**: Jult 25, 2024
+- **Camera Ready**: July 25, 2024
 - **Early Registration**: TBD
 
 ## Author Information
@@ -95,6 +95,12 @@ Paper registration and submission will be through EDAS.
 ## Special Issue
 Selected papers will be invited to the special issue _Applications-Driven UAV Routing and Scheduling Algorithms for Autonomous Transportation Systems_ of **ACM Journal on Autonomous Transportation Systems**.
 
+* * *
+# Accepted Papers
+- _Allan J Luedeman, Nicholas Baum and Kemal Akkaya (Florida International University, USA); Andrew Quijano (New York University & Amazon, USA), **Privacy-Preserving Drone Navigation Through Homomorphic Encryption for Collision Avoidance**_
+- _Thomas Hänel and Lennart Kaiser (Osnabrück University, Germany), **Estimating Soil Moisture with COTS Hardware Using BLE's Angle-Of-Arrival Feature**_
+- _Chuhao Qin, Alexander Robins, Callum Lillywhite-Roake, Adam Pearce, Hritik Mehta, Scott James, Tsz Ho Wong and Evangelos Pournaras (University of Leeds, United Kingdom (Great Britain), *M-SET: Multi-Drone Swarm Intelligence Experimentation with Collision Avoidance Realism*_
+- _Francesco Betti Sorbelli (University of Perugia, Italy); Punyasha Chatterjee (Jadavpur University, India); Federico Corò (University of Padova, Italy); Sajjad Ghobadi and Cristina M. Pinotti (University of Perugia, Italy), **Scheduling of Multiple UAVs in BVLoS Operations Along Unidirectional and Bidirectional Paths**_
 * * *
 
 ## Committees
