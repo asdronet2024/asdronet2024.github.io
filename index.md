@@ -100,7 +100,7 @@ Selected papers will be invited to the special issue _Applications-Driven UAV Ro
 - _Allan J Luedeman, Nicholas Baum and Kemal Akkaya (Florida International University, USA); Andrew Quijano (New York University & Amazon, USA), **Privacy-Preserving Drone Navigation Through Homomorphic Encryption for Collision Avoidance**_
 - _Thomas Hänel and Lennart Kaiser (Osnabrück University, Germany), **Estimating Soil Moisture with COTS Hardware Using BLE's Angle-Of-Arrival Feature**_
 - _Chuhao Qin, Alexander Robins, Callum Lillywhite-Roake, Adam Pearce, Hritik Mehta, Scott James, Tsz Ho Wong and Evangelos Pournaras (University of Leeds, United Kingdom (Great Britain), *M-SET: Multi-Drone Swarm Intelligence Experimentation with Collision Avoidance Realism*_
-- _Francesco Betti Sorbelli (University of Perugia, Italy); Punyasha Chatterjee (Jadavpur University, India); Federico Corò (University of Padova, Italy); Sajjad Ghobadi and Cristina M. Pinotti (University of Perugia, Italy), **Scheduling of Multiple UAVs in BVLoS Operations Along Unidirectional and Bidirectional Paths**_
+- _Francesco Betti Sorbelli (University of Perugia, Italy); Punyasha Chatterjee (Jadavpur University, India); Federico Corò (University of Padova, Italy); Sajjad Ghobadi and Cristina M. Pinotti (University of Perugia, Italy), **_Scheduling of Multiple UAVs in BVLoS Operations Along Unidirectional and Bidirectional Paths**_
 * * *
 
 ## Committees
